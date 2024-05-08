@@ -11,3 +11,8 @@ Vamos imaginar que em um processo seletivo existe o valor base salarial de 2.000
 
 ### Case 2: 
 Foi solicitado que nosso sistma garanta que diante das inumeras candidaturas sejam selecionados apenas no maximo 5 candidatos para entrevista ondeo salario pretendido seja menor ou igual ao salario base.
+
+---
+
+### Case 3:
+Imprima a lista dos candidatos selecionados para disponibilizar para o RH entrar em contato.
