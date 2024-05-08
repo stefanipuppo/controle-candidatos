@@ -16,3 +16,10 @@ Foi solicitado que nosso sistma garanta que diante das inumeras candidaturas sej
 
 ### Case 3:
 Imprima a lista dos candidatos selecionados para disponibilizar para o RH entrar em contato.
+
+---
+
+### Case 4:
+O RH deverá realizar uma ligação com no máximo 03 tentativas para cada selecionado e caso o candidato atenda, deve-se imprimir:
+- "CONSEGUIMOS CONTATO COM [CANDIDATO] APÓS [TENTATIVA] TENTATIVA(S)"
+- do contrario imprima: "NÃO CONSEGUIMOS CONTATO COM O [CANDIDATO]"
