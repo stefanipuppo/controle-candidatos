@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "candidaturas.ProcessoSeletivo",
+            "projectName": "controle-candidatos_ace9db13"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
